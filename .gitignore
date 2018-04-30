@@ -2,4 +2,5 @@
 /dogs-vs-cats/train
 /dogs-vs-cats/*.zip
 /dogs-vs-cats/*.npz
+/dogs-vs-cats/*.npy
 /dogs-vs-cats/preview
