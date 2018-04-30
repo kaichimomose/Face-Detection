@@ -1,3 +1,5 @@
 /dogs-vs-cats/test1
 /dogs-vs-cats/train
 /dogs-vs-cats/*.zip
+/dogs-vs-cats/*.npz
+/dogs-vs-cats/preview
