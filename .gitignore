@@ -4,3 +4,11 @@
 /dogs-vs-cats/*.npz
 /dogs-vs-cats/*.npy
 /dogs-vs-cats/preview
+/face_detection/images
+/face_detection/originalimages_part1
+/face_detection/originalimages_part2
+/face_detection/originalimages_part3
+/face_detection/originalimages_part4
+/face_detection/ukbench
+/face_detection/ukbench_extract
+/face_detection/*.zip
