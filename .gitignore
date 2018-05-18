@@ -12,3 +12,5 @@
 /face_detection/ukbench
 /face_detection/ukbench_extract
 /face_detection/*.zip
+/face_detection/male_female
+face_detection/fizz_buzz.py
